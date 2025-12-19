@@ -30,4 +30,4 @@ The Crime Analytics dashboard helps users understand how crime incidents vary ac
 This project is suitable for learning data analytics, practicing data visualization, and showcasing analytical skills in a portfolio or academic setting.
 
 ## Author
-Shubham
+[Shubham](www.linkedin.com/in/shubham-jakhar)
